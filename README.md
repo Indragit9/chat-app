@@ -37,3 +37,6 @@ npm start
 ```
 
 ### Including docker
+```shell
+docker build .
+```
