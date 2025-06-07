@@ -35,3 +35,5 @@ npm run build
 ```shell
 npm start
 ```
+
+### Including docker
